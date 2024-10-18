@@ -1,4 +1,5 @@
 # firstgitrepo
+
 First Git Repository.
 <br>
-author - suryansh gupta
+author - suryanshqt
